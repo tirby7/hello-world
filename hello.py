@@ -1,2 +1,2 @@
-print("hello my name it Tim) 
-print("im still new to this LOL)      
+print("hello my name is Tim")   # don't forget to close your string
+print("im still new to this LOL")      
